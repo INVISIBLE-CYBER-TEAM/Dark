@@ -79,7 +79,7 @@ os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 085781291915\x1b[1;96m  
 \033[1;96m [¤] \x1b[1;93mSELAMAT DATAMG\x1b[1;96m      [¤] \x1b[1;93mFACEBOOK : Wong Kang Edzan\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS MR.3\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr .3\x1b[1;96m"""
+\033[1;96m [¤] \x1b[1;93mTOOLS MR.3\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : Salafi Cyber Muslim\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "MamangHack"
